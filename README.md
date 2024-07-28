@@ -47,9 +47,9 @@ Você deverá utilizar a tecnologia **Next.js** e hospedar sua aplicação no **
 
 2. **Envio:**
    - Envie o link do repositório para nós através do LinkedIn, Instagram ou email:
-     - LinkedIn: [Seu LinkedIn]
-     - Instagram: [Seu Instagram]
-     - Email: [email@example.com]
+     - LinkedIn: [https://www.linkedin.com/company/cf-sistemas/?viewAsMember=true]
+     - Instagram: [@cfsistemas.com.br]
+     - Email: [cfsistemascontato@gmail.com]
 
 ## Exemplos de Tecnologias e Ferramentas
 
