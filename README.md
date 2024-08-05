@@ -12,7 +12,18 @@ Você deverá utilizar a tecnologia **Next.js** e hospedar sua aplicação no **
    - Crie uma nova aplicação utilizando Next.js.
    - Configure a aplicação para ser hospedada no Vercel ou Netlify.
 
-2. **Tela do Sistema de Controle de Alimentos:**
+2. **Autenticação:**
+   - O Sistema deve permitir um usuario de se cadastrar
+        - Email
+        - Senha
+        - Nome
+        - Número de telefone
+        - CPF
+        - Data de criação
+   - O Sistema deve permitir um usuario de se logar
+      - Email e senha
+
+3. **Tela do Sistema de Controle de Alimentos:**
    - A tela deve permitir a visualização, adição, edição e remoção de alimentos do sistema.
    - Cada alimento deve conter as seguintes informações:
      - Nome
@@ -21,14 +32,14 @@ Você deverá utilizar a tecnologia **Next.js** e hospedar sua aplicação no **
      - Descrição
      - Disponibilidade (Disponível, Indisponível)
 
-3. **Operações CRUD:**
+4. **Operações CRUD:**
    - Implemente as operações de Create, Read, Update e Delete utilizando um banco de dados hospedado na cloud (por exemplo, Firebase, MongoDB Atlas, Supabase, etc.).
 
-4. **Hospedagem:**
+5. **Hospedagem:**
    - Hospede sua aplicação no Vercel ou Netlify.
    - Certifique-se de que a aplicação está acessível publicamente através de um URL.
 
-5. **Documentação:**
+6. **Documentação:**
    - Inclua um arquivo README.md no repositório com instruções claras sobre como configurar e executar o projeto localmente.
 
 ## Critérios de Avaliação
@@ -37,7 +48,8 @@ Você deverá utilizar a tecnologia **Next.js** e hospedar sua aplicação no **
 2. **Qualidade do Código:** O código deve ser limpo, bem documentado e seguir boas práticas de desenvolvimento.
 3. **Eficiência:** O código deve ser eficiente em termos de tempo e espaço.
 4. **Usabilidade:** A interface do usuário deve ser intuitiva e fácil de usar.
-5. **Documentação:** A documentação deve ser clara e explicar as instruções de configuração e execução.
+5. **Permissão:** O sistema deve ter sistema de permissão entre usuários.
+6. **Documentação:** A documentação deve ser clara e explicar as instruções de configuração e execução.
 
 ## Entrega
 
