@@ -9,7 +9,7 @@ Você deverá utilizar a tecnologia **Next.js** e hospedar sua aplicação no **
 ## Instruções
 
 1. **Configuração do Projeto:**
-   - Crie uma nova aplicação utilizando Next.js.
+   - Crie uma nova aplicação utilizando Next.js com Typescript.
    - Configure a aplicação para ser hospedada no Vercel ou Netlify.
 
 2. **Autenticação:**
